@@ -1,5 +1,3 @@
-
-
  📌 Introduction
 
 This project is a practical demonstration of using web development techniques to fetch and display data from an external API. The main objective is to build a dynamic web page that retrieves a list of users from a public API and presents them in a clean, card-styled layout.
